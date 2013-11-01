@@ -1,5 +1,5 @@
 {
-  "name": "typeahead",
+  "name": "typeaheadjs",
   "version": "0.9.3",
   "main": "./typeahead.js"
 }
