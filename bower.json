@@ -1,5 +1,5 @@
 {
   "name": "typeaheadjs",
   "version": "0.10.1",
-  "main": "./typeahead.js"
+  "main": "./typeahead.bundle.js"
 }
