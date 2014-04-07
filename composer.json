@@ -15,7 +15,8 @@
             ],
             "files": [
                 "typeahead.min.js",
-                "typeahead.js"
+                "typeahead.js",
+                "typeahead.bundle.min.js"
             ]
         }
     }
