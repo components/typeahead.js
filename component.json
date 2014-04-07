@@ -1,7 +1,7 @@
 {
   "name": "typeaheadjs",
   "repo": "components/typeahead.js",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "main": "typeahead.js",
   "scripts": [
     "typeahead.js"
