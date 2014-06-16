@@ -11,10 +11,12 @@
         "component": {
             "name": "typeaheadjs",
             "scripts": [
-                "typeahead.js"
+                "typeahead.bundle.min.js"
             ],
             "files": [
-                "typeahead.bundle.min.js"
+                "typeahead.bundle.min.js",
+                "typeahead.bundle.js",
+                "typeahead.jquery.js"
             ]
         }
     }
