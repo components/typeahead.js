@@ -4,9 +4,6 @@
     "type": "component",
     "homepage": "http://github.com/components/typeahead.js",
     "license": "MIT",
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "name": "typeaheadjs",
