@@ -13,7 +13,8 @@
             "files": [
                 "typeahead.bundle.min.js",
                 "typeahead.bundle.js",
-                "typeahead.jquery.js"
+                "typeahead.jquery.js",
+                "bloodhound.min.js"
             ]
         }
     }
