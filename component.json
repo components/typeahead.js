@@ -4,10 +4,13 @@
   "version": "0.10.5",
   "main": "typeahead.js",
   "scripts": [
-    "typeahead.js"
+    "typeahead.bundle.min.js"
   ],
    "files": [
-    "typeahead.bundle.min.js"
+    "typeahead.bundle.js",
+    "typeahead.bundle.min.js",
+    "typeahead.jquery.js",
+    "typeahead.jquery.min.js"
   ],
   "license": "MIT"
 }
