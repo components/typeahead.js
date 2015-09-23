@@ -12,5 +12,8 @@
     "typeahead.jquery.js",
     "typeahead.jquery.min.js"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "components/jquery": "*"
+  }
 }
