@@ -2,12 +2,18 @@
   "name": "typeaheadjs",
   "repo": "components/typeahead.js",
   "version": "0.10.5",
-  "main": "typeahead.js",
+  "main": "typeahead.bundle.min.js",
   "scripts": [
-    "typeahead.js"
-  ],
-   "files": [
     "typeahead.bundle.min.js"
   ],
-  "license": "MIT"
+   "files": [
+    "typeahead.bundle.js",
+    "typeahead.bundle.min.js",
+    "typeahead.jquery.js",
+    "typeahead.jquery.min.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "components/jquery": "*"
+  }
 }
